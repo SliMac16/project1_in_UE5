@@ -1,0 +1,42 @@
+[
+	{
+		"file": "M:\\Unreal\\project1_in_UE5\\Source\\project1_in_UE5\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@M:\\Unreal\\project1_in_UE5\\.vscode\\compileCommands_Default\\project1_in_UE5.249.rsp"
+		],
+		"directory": "M:\\Program Files (x86)\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "M:\\Unreal\\project1_in_UE5\\Source\\project1_in_UE5\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@M:\\Unreal\\project1_in_UE5\\.vscode\\compileCommands_Default\\project1_in_UE5.249.rsp"
+		],
+		"directory": "M:\\Program Files (x86)\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "M:\\Unreal\\project1_in_UE5\\Source\\project1_in_UE5\\project1_in_UE5.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@M:\\Unreal\\project1_in_UE5\\.vscode\\compileCommands_Default\\project1_in_UE5.249.rsp"
+		],
+		"directory": "M:\\Program Files (x86)\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "M:\\Unreal\\project1_in_UE5\\Source\\project1_in_UE5\\project1_in_UE5.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@M:\\Unreal\\project1_in_UE5\\.vscode\\compileCommands_Default\\project1_in_UE5.249.rsp"
+		],
+		"directory": "M:\\Program Files (x86)\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "M:\\Unreal\\project1_in_UE5\\Source\\project1_in_UE5\\project1_in_UE5.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@M:\\Unreal\\project1_in_UE5\\.vscode\\compileCommands_Default\\project1_in_UE5.249.rsp"
+		],
+		"directory": "M:\\Program Files (x86)\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
