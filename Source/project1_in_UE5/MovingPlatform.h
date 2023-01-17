@@ -23,30 +23,17 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-    UPROPERTY(EditAnywhere)
-	int32 MyInt = 99;
+	UPROPERTY(EditAnywhere, Category="MovingPlatform")
+	FVector PlatformVelocity = FVector(100, 0, 0);
 
-	UPROPERTY(EditAnywhere)
-	int32 inputIntA = 0;
+	UPROPERTY(EditAnywhere, Category="MovingPlatform")
+	int32 speed = 10;
 
-	UPROPERTY(EditAnywhere)
-	int32 inputIntB = 0;
+	UPROPERTY(EditAnywhere, Category="MovingPlatform")
+	float MoveDistance = 200;
 
-	UPROPERTY(EditAnywhere)
-	int32 APlusBInput = 0;
+	FVector StartLocation;
 
-	UPROPERTY(EditAnywhere)
-	float myFloat = 24.56;
+	
 
-	UPROPERTY(EditAnywhere)
-	float inputFloatA = 0;
-
-	UPROPERTY(EditAnywhere)
-	float inputFloatB = 0;
-
-	UPROPERTY(EditAnywhere)
-	float APlusBFloat = 0;
-
-	UPROPERTY(EditAnywhere)
-	bool myBool = true;
 };
